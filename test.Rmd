@@ -1,0 +1,18 @@
+---
+title: "Untitled"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+1. write
+2. write some r code in a chunk
+3. Knit the new file
+4. Commit and push
+
+```{r}
+x <- 2+3
+```
+
